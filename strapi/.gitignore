@@ -109,6 +109,8 @@ node_modules
 !.yarn/versions
 .pnp.*
 yarn-error.log
+package-lock.json
+yarn.lock
 
 ############################
 # Tests
