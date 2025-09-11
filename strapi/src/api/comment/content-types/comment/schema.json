@@ -25,7 +25,7 @@
     "post": {
       "type": "relation",
       "relation": "manyToOne",
-      "target": "api::blog-post.blog-post"
+      "target": "api::article.article"
     }
   }
 }
