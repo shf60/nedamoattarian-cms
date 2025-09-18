@@ -25,7 +25,8 @@
     "post": {
       "type": "relation",
       "relation": "manyToOne",
-      "target": "api::article.article"
+      "target": "api::article.article",
+      "inversedBy": "comments"
     }
   }
 }
